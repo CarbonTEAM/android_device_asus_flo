@@ -2,6 +2,7 @@
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1200
+TARGET_BOOTANIMATION_HALF_RES := true
 
 # Inherit some common Carbon stuff.
 $(call inherit-product, vendor/stelix/config/common_phone.mk)
