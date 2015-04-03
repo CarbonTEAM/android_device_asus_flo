@@ -1,6 +1,14 @@
 [
  {
-   "repository": "android_kernel_google_msm",
-   "target_path": "kernel/google/msm"
+   "remote": "gh",
+   "repository": "CyanogenMod/android_kernel_google_msm",
+   "target_path": "kernel/google/msm",
+   "branch": "cm-12.1"
+ },
+ {
+   "remote": "gh",
+   "repository": "TheMuppets/proprietary_vendor_asus",
+   "target_path": "vendor/asus",
+   "branch": "cm-12.1"
  }
 ]
