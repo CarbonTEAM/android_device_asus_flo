@@ -19,7 +19,6 @@ PRODUCT_NAME := carbon_flo
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Nexus 7
 PRODUCT_MANUFACTURER := asus
-CARBON_BUILDTYPE := NIGHTLY
 
 PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=razor \
                                 BUILD_FINGERPRINT=google/razor/flo:5.1.1/LMY47V/1836172:user/release-keys \
