@@ -6,7 +6,7 @@
  },
  {
    "remote": "cm",
-   "repository": "android_kernel_google_msm",
+   "repository": "Cyanogenmod/android_kernel_google_msm",
    "target_path": "kernel/google/msm",
    "revision": "cm-12.1"
  },
