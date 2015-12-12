@@ -1,10 +1,5 @@
 [
  {
-   "remote": "aosp",
-   "repository": "device/asus/flo-kernel",
-   "target_path": "device/asus/flo-kernel"
- },
- {
    "remote": "cm",
    "repository": "Cyanogenmod/android_kernel_google_msm",
    "target_path": "kernel/google/msm",
